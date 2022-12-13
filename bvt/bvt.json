@@ -1,0 +1,28 @@
+[
+  {
+    "enabled": false,
+    "bvtTestName": "FirstTestName",
+    "bvtScriptId": "00001"
+  },
+
+  {
+    "enabled": true,
+    "bvtTestName": "SecondTestName",
+    "bvtScriptId": "00002"
+  },
+  {
+    "enabled": false,
+    "bvtTestName": "ThirdTestName",
+    "bvtScriptId": "00003"
+  },
+  {
+    "enabled": true,
+    "bvtTestName": "FourthTestName",
+    "bvtScriptId": "00004"
+  },
+  {
+    "enabled": true,
+    "bvtTestName": "FifthTestName",
+    "bvtScriptId": "00005"
+  }
+]
