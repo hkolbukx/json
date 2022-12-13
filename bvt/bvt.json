@@ -1,28 +1,28 @@
 [
   {
-    "enabled": false,
-    "bvtTestName": "FirstTestName",
-    "bvtScriptId": "00001"
+    "CCC_TEST_ENABLED": false,
+    "CCC_TEST_NAME":  "FirstTestName",
+    "CCC_SCRIPT_ID":  "00001"
   },
 
   {
-    "enabled": true,
-    "bvtTestName": "SecondTestName",
-    "bvtScriptId": "00002"
+    "CCC_TEST_ENABLED": true,
+    "CCC_TEST_NAME":  "SecondTestName",
+    "CCC_SCRIPT_ID":  "00002"
   },
   {
-    "enabled": false,
-    "bvtTestName": "ThirdTestName",
-    "bvtScriptId": "00003"
+    "CCC_TEST_ENABLED": false,
+    "CCC_TEST_NAME":  "ThirdTestName",
+    "CCC_SCRIPT_ID":  "00003"
   },
   {
-    "enabled": true,
-    "bvtTestName": "FourthTestName",
-    "bvtScriptId": "00004"
+    "CCC_TEST_ENABLED": true,
+    "CCC_TEST_NAME":  "FourthTestName",
+    "CCC_SCRIPT_ID":  "00004"
   },
   {
-    "enabled": true,
-    "bvtTestName": "FifthTestName",
-    "bvtScriptId": "00005"
+    "CCC_TEST_ENABLED": true,
+    "CCC_TEST_NAME":  "FifthTestName",
+    "CCC_SCRIPT_ID":  "00005"
   }
 ]
